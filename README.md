@@ -10,6 +10,6 @@ Special Notes:
 CCF - 55%
 CBF - 65%
 CMF - 75%
-CP - at least 50% (if you have installed)
+CP - at least 50% (if you have it installed)
 
 Note that you still need this: https://github.com/Cleoude/SA-Community-Cutscene-Fixes?tab=readme-ov-file
