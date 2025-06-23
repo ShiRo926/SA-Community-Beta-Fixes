@@ -1,11 +1,12 @@
 # SA-Community-Beta-Fixes
 This is SACBF also known as San Andreas Community Beta Fixes which it aims to restore beta features and improves the game a bit, fitting into modern systems.
+This is intended for CCF as it's DLC.
 
 Patch Notes:
 - Read Readme
 
 Special Notes:
--Increase Modloader Priority and delete $fla folder inside modloader and replace it with a newer version that should be installed in SA Root Folder.
+- Read Releases.
 
 CCF - 55%
 CBF - 65%
