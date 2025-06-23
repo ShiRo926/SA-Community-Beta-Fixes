@@ -1,5 +1,5 @@
 # SA-Community-Beta-Fixes
-This is SACBF also known as San Andreas Community Beta Fixes which it aims to restore beta features and improves the game a bit, fitting into modern systems.
+SACBF also known as San Andreas Community Beta Fixes which it aims to restore beta features and improves the game a bit, fitting into modern systems.
 This is intended for CCF as it's DLC.
 
 Patch Notes:
