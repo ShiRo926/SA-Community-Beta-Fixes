@@ -1,5 +1,5 @@
-# SA-Community-Beta-Fixes
-SACBF also known as San Andreas Community Beta Fixes which it aims to restore beta features and improves the game a bit, fitting into modern systems.
+# SA-Community-Classic-Imprevements
+SACBF also known as San Andreas Community Beta Fixes which it aims to restore some of the beta features and improves the game a bit, fitting into modern systems.
 This is intended for CCF as it's DLC. (See releases tab for more details.)
 
 Patch Notes:
@@ -9,8 +9,8 @@ Special Notes:
 - Read Releases.
 
 CCF - 55%
-CBF - 65%
+CCI - 65%
 CMF - 75%
-CP - at least 50% (if you have it installed)
+CCP - at least 50% (if you have it installed)
 
 Note that you still need this: https://github.com/Cleoude/SA-Community-Cutscene-Fixes?tab=readme-ov-file
